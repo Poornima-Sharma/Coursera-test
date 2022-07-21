@@ -1,6 +1,11 @@
 *{
   box-sizing: border-box;
 }
+h1{
+	text-align: center;
+	font-family: cursive;
+	margin-bottom: 50px;
+}
 body{
   background-color: lightgreen;
 }
